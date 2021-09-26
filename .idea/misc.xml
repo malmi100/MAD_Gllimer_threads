@@ -3,6 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/activity_deliveryinfo.xml" value="0.264" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/activity_deliveryinforeview.xml" value="0.264" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/custom_toast.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/deliveryinfo.xml" value="0.264" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/getstart.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/home.xml" value="0.25416666666666665" />
+        <entry key="..\:/2yr-2sem/MADProject/app/src/main/res/layout/starting_toast.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/MAD_Gllimer_threads/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
       </map>
     </option>
